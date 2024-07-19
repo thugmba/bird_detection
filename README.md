@@ -3,13 +3,19 @@
 Detect birds in an image file(PNG, JPG, etc) then classify them to another folder.
 
 ### Datasets
-#### 10 bird images
-bird 1 ~ 11
+#### Total
+bird: 11
+no bird: 1126
 
-#### 11 non bird images
-no bird 1 ~ 10
+#### Test
+bird 11
+no bird 10
 
 ## Performance
+
+### YOLOv8
+Pre-trained model: yolov8l.pt
+Success: 1 ~ 11
 
 ### YOLOv5
 Success: 3 ~ 11
