@@ -12,6 +12,7 @@ bird 11
 no bird 10
 
 ## Performance
+14 mins for 1126 images
 
 ### YOLOv8
 Pre-trained model: yolov8l.pt
